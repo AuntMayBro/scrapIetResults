@@ -53,9 +53,9 @@ Before running the script, you need to have Python installed. Additionally, you'
 2.  **Run the Script**:
     Execute the script from your terminal:
     ```bash
-    python your_script_name.py
+    python scrapResult.py
     ```
-    *(Replace `your_script_name.py` with the actual name of your file.)*
+    *(Replace `scrapResult.py` with the actual name of your file.)*
 
     The script will print the progress in the console, indicating which roll number it is currently fetching.
 
@@ -76,3 +76,4 @@ For roll numbers where a result could not be found or an error occurred, the `Na
 -   This script is intended for educational and personal use only.
 -   The functionality of this scraper is dependent on the structure of the IET-DAVV results website. Any changes to the website's HTML layout may break the script.
 -   Please use the script responsibly and avoid sending an excessive number of requests in a short period to prevent overloading the server.
+
